@@ -1,1 +1,1 @@
-# merrell-react-skeleton
+# jm-react-boilerplate
